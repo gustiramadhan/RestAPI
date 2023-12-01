@@ -1,2 +1,2 @@
 # RestAPI
-Rest API with Katalon Studio
+API Testing with Katalon Studio
