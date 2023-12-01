@@ -1,4 +1,4 @@
-# Web Service Testing Samples
+# Web Service Testing
 
 See https://docs.katalon.com/katalon-studio/docs/web-service-samples.html.
 
